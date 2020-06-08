@@ -1,0 +1,32 @@
+factory pattern
+
+construncr 
+prototype memory wil create 
+doesn't allow duplication
+
+init
+
+function 
+
+recursive
+anonymous 
+closuers
+callback
+
+asyncronous
+set timeout
+set interval
+clear inteval
+
+try catch
+
+es6
+var let
+
+•setTimeout: Calls one time after timeout
+
+•clearTimeout: Cancels a timout
+
+•setInterval: repeats until cancelled
+
+•clearInterval: cancels an interval

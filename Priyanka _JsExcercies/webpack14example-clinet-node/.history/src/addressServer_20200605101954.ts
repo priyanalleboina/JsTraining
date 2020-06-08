@@ -1,0 +1,23 @@
+import axios from 'axios';
+export default class AddressServer {
+  static createContact(pid:number,name:string,age:number,hno: string,
+    city: string,street: string):void{
+      axios.get('http://localhost:4000/')
+    .then(function (response:any) {
+    console.log(response);
+    })
+      axios({
+        method: 'get',
+        url: 'http://localhost:4000/',
+    
+      })
+      .then((data:any)=>{
+        console.log(data);
+      })
+    }
+ 
+
+static getContacts(): any {
+ 
+}
+}

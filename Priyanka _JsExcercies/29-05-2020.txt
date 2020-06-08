@@ -1,0 +1,10 @@
+typescript: only type specific is there
+transpiling to js on complitaion
+tyepes number,string,boolean, enum,interface,any
+
+npm i typescript
+npm i ts-loader
+ 
+tsconfig : input and output of files and we can mention souce map
+
+npm i tslint tslint-webpack-plugin --save-dev

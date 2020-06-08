@@ -1,0 +1,17 @@
+javscript is client side language found on 19195 netscafe navigator 
+bom,DOM, es5,..es6..es8
+
+and  v8 engine , it is inerprit language means tranpile code
+data types > primitive string,number,boolena,null,undefined
+          non primitive-array,object
+
+js conditional and loops
+
+if else
+for ,
+for-in -> will give the index value
+foreach > wil iterate and give function value
+while,dowhile
+
+functions
+ function name() {}

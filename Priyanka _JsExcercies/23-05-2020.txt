@@ -1,0 +1,8 @@
+promises
+asyncronous -single threaded
+
+resolve 
+reject
+penindg state
+natively success or fails 
+

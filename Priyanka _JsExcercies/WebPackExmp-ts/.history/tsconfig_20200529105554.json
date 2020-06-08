@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+      "outDir": "./dist/",
+      "sourceMap": true,
+      "devtool": "inline-source-map",
+      "noImplicitAny": true,
+      "module": "es6",
+      "target": "es6",
+      "allowJs": true
+    }
+  }

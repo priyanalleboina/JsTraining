@@ -1,0 +1,33 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="./src/index.css">
+  <script src="./dist/bundler.js"></script>
+
+</head>
+
+<body>
+  <div>
+    <h1>Example for Contacts and Persons List</h1>
+    <!-- add people via hard coded list -->
+    <h4 style="color:darkblue">Click to Populate SELECT with JSON</h4>
+    <form>
+      <label>pid:</label><input id="pid" ></br></br>
+      <label>name:</label><input id="name" ></br></br>
+      <label>age:</label> <input id="age" ></br></br>
+      <label>hno:</label><input id="hno" ></br></br>
+      <label>colName:</label><input id="colName" ></br></br>
+      <label>street:</label><input id="street" ></br></br>
+      <button id="add" onclick="ui.addContactInfo()">Add Persons</button>
+  </form>
+  </div>
+  <hr>
+  <div>
+  
+ <button onclick="ui.getContactsList()">Get Contacts</button>
+
+  </div>
+</body>
+</html>

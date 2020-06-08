@@ -1,0 +1,31 @@
+class:is a behaviour and blue print of objects and can write methods and members
+
+it is like object prototype
+
+instace we have to create and we can access class
+
+static:used to create single tone Object
+
+class Add(){
+constructor(a,b){
+this.a =a;
+this.b =b;
+
+}
+
+describe () {
+resturn "result"+ this.a +this.b;
+}
+
+const a1 = new Add(2,3);
+a. Add(); instace with class
+
+method invoking with class 
+
+and inheritance
+
+using extends keywork we can access class
+only single class
+ussing super keyword we are calling method
+
+

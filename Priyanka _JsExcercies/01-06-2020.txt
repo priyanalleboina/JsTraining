@@ -1,0 +1,26 @@
+nodejs
+--------
+server side cross platform
+dynamically get dynamic data
+highly scalable
+memory sufficeint
+
+REST API:
+------------
+
+representational state transfer
+stateless: menas there is new request evry time which is not dependt on previous reqq
+
+cacheable:
+
+port :comminicate with clinet without afftecting on unique whay to identify software server load
+
+const app = express();
+
+const port= 300;
+
+app.listen(port,()=>{
+}
+app.get('/',(req,res)=>{
+}
+

@@ -1,0 +1,22 @@
+{
+  "name": "excersice-14-ts",
+  "version": "1.0.0",
+  "description": "",
+  "devtool": "inline-source-map",
+  "main": "main.ts",
+  "type": "module",
+  "scripts": {
+    "prebuild": "tsc",
+    "build": "node ./dist/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/express": "^4.17.6"
+  },
+  "devDependencies": {
+    "express": "^4.17.1",
+    "typescript": "^3.9.3"
+  }
+}

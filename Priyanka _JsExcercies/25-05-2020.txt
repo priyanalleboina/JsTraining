@@ -1,0 +1,15 @@
+JS modules- independent functionality can write like library
+
+collection of classes and members , 
+resulable
+npm package which is having packages 
+pacakges : one or modules available is called
+
+node -server side  plat form for Js
+web pack: independent pacakge bundler
+it takes all js files and work as one file
+bable taransplier: newer version of code to  older version
+if some new code like es6 then we run in  older browser then it conver to es5 like old format of code
+common js in b/w es5 and es6: which allows to mange modules properly : import and export  it is
+ third party library
+npx webpack
